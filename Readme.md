@@ -6,11 +6,11 @@
 
 
 
-!\[github logo](github.png)
+&#x20;!\[github logo](github.png)
 
 
 
 * \[x] Install Git and Python
 * \[x] Learn Git and GitHub
-* \[] C++ Coding
+* \[ ] C++ Coding
 
